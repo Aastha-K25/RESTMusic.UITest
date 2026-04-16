@@ -1,6 +1,6 @@
 ﻿namespace RESTMusic.UITest;
 
-public class UnitTest1
+public class UITest
 {
     [Fact]
     public void Test1()
