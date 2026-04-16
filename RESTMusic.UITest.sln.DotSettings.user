@@ -11,6 +11,6 @@
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c7c07e00_002D963f_002D4051_002D9e9e_002D88e8f48ab2ac/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test_GetAllMusic_Buttin_Works" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
-    &lt;TestId&gt;xUnit::4F25F251-2579-4A12-B9F7-002E3E92C601::net9.0::RESTMusic.UITest.UITest.Test_GetAllMusic_Buttin_Works&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::4F25F251-2579-4A12-B9F7-002E3E92C601::net9.0::RESTMusic.UITest.UITest&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
